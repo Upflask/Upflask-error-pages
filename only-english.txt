@@ -1,0 +1,7 @@
+404 = "404 dude. Check the URL."
+
+500 = "Even I don't know what happened"
+
+403 = "No no"
+
+413 = "Did you even check the Terms dude?"
