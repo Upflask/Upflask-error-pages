@@ -1,0 +1,7 @@
+404 = "404. Katso nettisivun osoite."
+
+500 = "En edes minäkään tiedä mitä tapahtui"
+
+403 = "Ei ei"
+
+413 = "Katsoitko sidä edes ehdot?"
